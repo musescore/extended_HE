@@ -1,0 +1,6 @@
+This plugin tries to change the tuning of each note in the chord to match
+Just intonation using the Extended Helmoltz Ellis accidentals
+
+TODO
+* Make root a parameter inputted by the user
+* Make it work for ties
