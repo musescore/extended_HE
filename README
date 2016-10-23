@@ -1,6 +1,10 @@
-This plugin tries to change the tuning of each note in the chord to match
-Just intonation using the Extended Helmoltz Ellis accidentals
+This MuseScore plugin tries to change the tuning of each note in the chord to match
+Just intonation using the Extended Helmholtz-Ellis system.
+
+More info about http://www.marcsabat.com/pdfs/notation.pdf
+
+This plugin only work with MuseScore nightlies starting [7e6ec7f192](https://github.com/musescore/MuseScore/commit/7e6ec7f19240f8a72f621c8f15f57a616ffeef21)
 
 TODO
-* Make root a parameter inputted by the user
+* Make root a parameter inputed by the user
 * Make it work for ties
