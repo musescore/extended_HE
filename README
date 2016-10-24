@@ -3,7 +3,7 @@ Just intonation using the Extended Helmholtz-Ellis system.
 
 More info about http://www.marcsabat.com/pdfs/notation.pdf
 
-This plugin only work with MuseScore nightlies starting [7e6ec7f192](https://github.com/musescore/MuseScore/commit/7e6ec7f19240f8a72f621c8f15f57a616ffeef21)
+This plugin only work with MuseScore nightlies starting [ffb45f38](https://github.com/musescore/MuseScore/commit/ffb45f3827874bf19bda33f3c02ccaeb0cfbd346)
 
 TODO
 * Make root a parameter inputed by the user
